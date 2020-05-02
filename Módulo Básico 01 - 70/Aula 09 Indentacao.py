@@ -1,5 +1,5 @@
 #==========================================
-#============ www. eXcript.com ============
+#=========  Curso de Phyton   =============
 #==========================================
 
 print("No phyton a indentanção é um requisito obrigatório para o funcionamento do programa")
